@@ -1,7 +1,4 @@
 - 👋 Hi my name is Alex
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning shape matching in the "old" way.
-- 💞️ I’m looking to collaborate on ...
 - 📫 koehlale@b-tu.de
 
 <!---
